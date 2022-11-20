@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VetApp</string>
+    <string name="Login">Войти</string>
+    <string name="Phone">Телефон</string>
+    <string name="Password">Пароль</string>
+    <string name="Registration">Регистрация</string>
+</resources>
